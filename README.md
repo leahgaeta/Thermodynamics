@@ -1,6 +1,3 @@
-# Coulomb Torsion Theory
-Application of Coulomb torsion theory to the twisting of homogenous circular shafts
+# Energy & Thermodynamics
 
-Mechanics of Materials course
-
-Includes code (.mlx MATLAB Live Editor), data, and report
+Study guides, data, code, and reports from my energy and thermodynamics course.
