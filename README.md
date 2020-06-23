@@ -3,4 +3,4 @@ Application of Coulomb torsion theory to the twisting of homogenous circular sha
 
 Mechanics of Materials course
 
-Includes code, data, and report
+Includes code (.mlx MATLAB Live Editor), data, and report
