@@ -1,4 +1,4 @@
-**Study Guides**
+**Energy & Thermodynamics Study Guides**
 #
 
 This is a collection of study guides that I created based on the text Fundamentals of Engineering Thermodynamics, 8th Edition, Moran et al. These are useful for studying and brushing up on necessary material related to mechanical engineering.
